@@ -1,5 +1,5 @@
 # VideoPlayerApp
-This is a simple Video Player App. It was written using: ExoPlayer, MediaItem, Dagger Hilt, Corounite Flow, Uri and Compose.
+This is a simple Video Player App. It was written using: ExoPlayer, MediaItem, Dagger Hilt, Coroutine Flow, Uri and Compose.
 
 # Demonstration
 
